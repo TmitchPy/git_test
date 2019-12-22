@@ -1,1 +1,1 @@
-This is TmitchellPy first git project!
+This is TmitchPy first git project!
